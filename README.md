@@ -4,23 +4,23 @@ This repository will contain Data Structures and Algorithms ordered from Basic t
 
 Contents
 
-1. Searching
+# 1. Searching
 
-a. Linear Search
+    a. Linear Search
 
-b. Binary Search
+    b. Binary Search
 
-2. Sorting
+# 2. Sorting
 
-a.   Bubble Sort
+    a.   Bubble Sort
 
-b.   Insertion Sort
+    b.   Insertion Sort
 
-c.   Merge Sort
+    c.   Merge Sort
 
-d.   Heap Sort
+    d.   Heap Sort
 
-3. Linked Lists
+# 3. Linked Lists
 
-4. Stacks, Queues, Deques
+# 4. Stacks, Queues, Deques
 
